@@ -1,6 +1,6 @@
 # Whatsapp Text Message Formatter
 
-[![npm version](https://badge.fury.io/js/react-whatsapp-text-formatter.svg)](https://badge.fury.io/js/react-whatsapp-text-formatter) ![NPM License](https://img.shields.io/npm/l/react-whatsapp-text-formatter)
+[![npm version](https://badge.fury.io/js/react-whatsapp-text-formatter.svg)](https://www.npmjs.com/package/react-whatsapp-text-formatter) [![NPM License](https://img.shields.io/npm/l/react-whatsapp-text-formatter)](./LICENSE)
 
 
 WhatsApp uses a [markdown-like syntax in defining its formatting](https://faq.whatsapp.com/539178204879377/). This library provides an easy-to-use widget that renders WhatsApp-style message string into a formatted format that handles WhatsApp inline styles `` *bold* _italics_ `monospace` ~strikethrough~ `` and multiline codeblock (triple backtick - ` ``` `).
